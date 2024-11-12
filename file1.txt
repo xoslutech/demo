@@ -1,2 +1,5 @@
 Bonjour, Voici notre cours sur GIT.
 Tous les étudiants suivent attentivement le cours de GIT.
+J'aime le cours de GIT.
+Mamadou n'aime pas ce cours de GIT.
+Mais monsieur quand est ce qu'on fera connaissance de GitHub ?
